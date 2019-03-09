@@ -4,7 +4,7 @@ a c# launcher for anything that can be downloaded - this project was made to lea
 ----
 The launcher starting view is a login form.  
 The user needs to enter his username and password to access the main form.  
-After the user enters his username and password the launcher makes a query to the MySQL server and checks if there is a user with that username and password in Users MySQL table. The next verification step is based on user HWID (the HWID is a hash string that is made from the users pc specs(processor/ram/video card/etc).  
+After the user enters his username and password the launcher makes a query to the MySQL server and checks if there is a user with that username and password in Users MySQL table. The next verification step is based on user HWID (the HWID is a hex string that is made from the users pc specs(processor/ram/video card/etc).  
 If this three steps are passed successfully the user is redirected to the main form.  
 
 On the main form, there are two buttons.  

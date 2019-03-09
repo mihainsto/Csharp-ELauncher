@@ -13,7 +13,7 @@ The start button launches the file that was downloaded by pressing the update bu
 
 ## Make this application working:  
 First of all for compiling you need to have mysql connector for .NET.  
-[mysql .NET connector](https://github.com/adam-p/markdown-here/wiki)  
+[mysql .NET connector](https://dev.mysql.com/downloads/connector/net/8.0.html)  
 
 After that you need a MySQL server with this exact setup:  
 - a 'usr' database  

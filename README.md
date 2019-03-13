@@ -27,3 +27,9 @@ Users Table:
 Status Table:  
 <img src="ss/1.png" width="250" ">  
 
+---
+ Design:
+ <p>
+  <img src="ss/LoginSS.png" width="250" ">
+  <img src="ss/MenuSS.png" width="250" ">
+  </p>    

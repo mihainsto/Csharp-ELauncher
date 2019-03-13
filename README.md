@@ -1,5 +1,5 @@
 # C#-E-launcher
-a c# launcher for anything that can be downloaded - this project was made to learn C# language and MySQL common queries - project date 2017
+a c# launcher for anything that can be downloaded - this project was made to learn C# language and MySQL common queries - project date late 2017
 
 ----
 The launcher starting view is a login form.  
